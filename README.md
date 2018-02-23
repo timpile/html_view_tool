@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HtmlViewTool::Renderer.copyright 'Tim Pile', 'All rights reserved'
+```
 
 ## Development
 
